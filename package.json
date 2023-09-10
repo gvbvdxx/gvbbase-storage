@@ -1,0 +1,14 @@
+{
+  "name": "gvbbase-storage",
+  "version": "1.0.0",
+  "description": "Unoffical Firebase Storage System, Originally For GGM2 Community Security Update",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/test.js"
+  },
+  "author": "Gvbvdxx",
+  "license": "MIT",
+  "dependencies": {
+    "https": "^1.0.0"
+  }
+}
